@@ -106,9 +106,9 @@ flowchart LR
 | 🏢 **[Capital Marketing](https://capitalmarketingnp.com)** | Live corporate gifting website for a Nepal-based client | HTML, CSS, JavaScript |
 | 🏗️ **[ShubhLabh Construction](https://shubhlabhconstruction.com.np)** | Live company website with service showcase and lead-capture sections | HTML, CSS, JavaScript |
 
-## 🧑‍🏫 Also
+## ✍️ Writing
 
-I run **LoopAngan**, a coding bootcamp brand (Python Zero to Hero, with certification).
+I write about what I build. Latest: **[From URL to Verdict: Constructing a Multi-Vector Web Threat Forensics Engine](https://medium.com/@saugat.rauniyar.work/from-url-to-verdict-constructing-a-multi-vector-web-threat-forensics-engine-c9eb4722d352?sharedUserId=saugat.rauniyar.work)**, a deep dive into the architecture and design decisions behind Impostr.
 
 ## 🏅 Certifications
 
